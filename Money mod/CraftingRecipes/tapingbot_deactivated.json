@@ -1,0 +1,14 @@
+// this file is generated
+[
+	{
+		"itemId": "f7d689eb-a198-45be-b12a-103dc06d02fe",
+		"quantity": 1,
+		"craftTime": 0,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39"
+			}
+		]
+	}
+]
