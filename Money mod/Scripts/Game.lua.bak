@@ -1,0 +1,10 @@
+dofile "$SURVIVAL_DATA/Scripts/game/SurvivalGame.lua"
+
+Game = class( SurvivalGame )
+
+function Game.server_onCreate( self )
+    SurvivalGame.server_onCreate( self )
+	print("Game.server_onCreate")
+end
+
+function Game.loadCraftingRecipes( self ) LoadCraftingRecipes({ craftbot = "$CONTENT_DATA/CraftingRecipes/craftbot.json" }) end

@@ -1,0 +1,22 @@
+{
+   "blockList" : [
+      {
+         "asg" : "$CONTENT_DATA/Objects/Database/Textures/money_asg.tga",
+         "dif" : "$CONTENT_DATA/Objects/Database/Textures/money_dif.tga",
+         "flammable" : false,
+         "name" : "Money",
+         "nor" : "$CONTENT_DATA/Objects/Database/Textures/money_nor.tga",
+         "physicsMaterial" : "Cardboard",
+         "ratings" : {
+            "buoyancy" : 0,
+            "density" : 0,
+            "durability" : 0,
+            "friction" : 0
+         },
+         "showInInventory" : true,
+         "stackSize" : 1000,
+         "tiling" : 1,
+         "uuid" : "cb751c82-9bc3-48bd-aa03-4c2648d81640"
+      }
+   ]
+}

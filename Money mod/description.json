@@ -1,0 +1,11 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "dependencies" : null,
+   "description" : "Adds money as a block that you can use to buy(craft)things. To get money trade stuff in with your craftbot.",
+   "fileId" : 3009247639,
+   "localId" : "6f223957-55c3-4e17-8343-fb65029903cc",
+   "name" : "Money mod",
+   "type" : "Custom Game",
+   "version" : 0
+}
